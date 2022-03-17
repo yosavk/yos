@@ -1,2 +1,3 @@
-# yos
-testing
+# README TESTING GIT 
+
+new testing text
